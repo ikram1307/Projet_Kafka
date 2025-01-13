@@ -15,7 +15,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="KafkaConsumer" options="-parameters" />
-      <module name="KafkaStrams" options="" />
+      <module name="KafkaStrams" options="-parameters" />
       <module name="Producer" options="-parameters" />
     </option>
   </component>
